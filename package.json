@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Dbrrohof/kooce-davzz#readme",
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "4.16.3",
+    "socket.io": "2.1.1"
   }
 }
